@@ -1,0 +1,1042 @@
+{
+  "name": "My Example Source",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "My Example App",
+      "bundleIdentifier": "com.198xvfg8mw.3mwo7h8c7h",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/cy22whi.jpeg",
+      "tintColor": "#6156e2",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "WhatsApp",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/23bMQ9g.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/elzebarychannel/481",
+          "size": 109523763,
+          "version": "25.12.10",
+          "buildVersion": "",
+          "date": "2025-05-02T23:58:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSBluetoothPeripheralUsageDescription": "This lets you connect to supported Bluetooth devices",
+          "NSCalendarsUsageDescription": "‎This lets you create events on your calendar.",
+          "NSCameraUsageDescription": "‎This lets you make video calls, take photos, and record videos.",
+          "NSContactsUsageDescription": "‎Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
+          "NSFaceIDUsageDescription": "‎Use Face ID to authenticate on WhatsApp.",
+          "NSLocalNetworkUsageDescription": "‎This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
+          "NSLocationAlwaysUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+          "NSLocationUsageDescription": "‎This lets you send your current location or nearby places in chats.",
+          "NSLocationWhenInUseUsageDescription": "‎This lets you send your current location or nearby places in chats.",
+          "NSMicrophoneUsageDescription": "‎This lets you make calls, send voice messages, and record videos with sound.",
+          "NSPhotoLibraryAddUsageDescription": "‎This lets you save photos and videos to your library.",
+          "NSPhotoLibraryUsageDescription": "‎This lets you send photos and videos from your library and save the ones you capture.",
+          "NSRemindersUsageDescription": "‎This lets you set reminders to call your friends back.",
+          "NSSiriUsageDescription": "‎This lets you use Siri to quickly send and read messages and make calls.",
+          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/UbRGSKm.png",
+      "tintColor": "#7f7f7f",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/elzebarychannel/518",
+          "size": 553218211,
+          "version": "1.21.71",
+          "buildVersion": "",
+          "date": "2025-05-02T23:57:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used for Live Broadcast",
+          "NSContactsUsageDescription": "When you use the Xbox Live Friend Finder, it will access your contacts to help you find your friends.",
+          "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network. This allows you and others on your local network to play together. Declining this permission does not affect online features or gameplay. But will prevent you and others, on the same network, from playing together.",
+          "NSMainNibFile": "MainWindow",
+          "NSMicrophoneUsageDescription": "Used for Live Broadcast",
+          "NSPhotoLibraryAddUsageDescription": "Used to read and write Minecraft images.",
+          "NSPhotoLibraryUsageDescription": "Used to read and write Minecraft images.",
+          "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "CameraSacnner",
+      "bundleIdentifier": "hidden.camera.spy",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/uzduFBk.png",
+      "tintColor": "#7f7f7f",
+      "category": "photo-video",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/elzebarychannel/483",
+          "size": 76535562,
+          "version": "1.1",
+          "buildVersion": "",
+          "date": "2025-05-02T23:55:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This allows you to share your location with the app so that the app can assist in scanning for devices nearby.",
+          "NSCameraUsageDescription": "Desire to access your camera. This will assist our app in scanning and identifying your surroundings.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Please allow to detect devices around you",
+          "NSLocationWhenInUseUsageDescription": "Please allow to detect devices around you"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "YouTubeMusic",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/3Mv4FjW.png",
+      "tintColor": "#7f7f7f",
+      "category": "social",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/elzebarychannel/487",
+          "size": 78496399,
+          "version": "8.15.3",
+          "buildVersion": "",
+          "date": "2025-05-02T23:54:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
+          "NSCameraUsageDescription": "To take a profile picture, allow YouTube Music to access your camera.",
+          "NSContactsUsageDescription": "This will allow you to invite your family into your membership plan.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube Music to discover and connect to devices such as your TV.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos.",
+          "NSPhotoLibraryAddUsageDescription": "To save images, allow YouTube Music to access your photo library.",
+          "NSPhotoLibraryUsageDescription": "To choose a profile picture, allow YouTube Music to access your photos."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "bazaart",
+      "bundleIdentifier": "co.bazaart.app",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/c0pN0yZ.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/elzebarychannel/488",
+          "size": 64120422,
+          "version": "10.6.5",
+          "buildVersion": "",
+          "date": "2025-05-02T23:52:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "This will allow you to take photos with Bazaart, so you can edit them in Bazaart.",
+          "NSLocationAlwaysUsageDescription": "Allows matching displayed content",
+          "NSLocationWhenInUseUsageDescription": "Allows matching displayed content",
+          "NSPhotoLibraryAddUsageDescription": "This will allow you to save photos and videos to your camera roll.",
+          "NSPhotoLibraryUsageDescription": "This will allow you to access your photo albums and save photos to your camera roll.",
+          "NSUserTrackingUsageDescription": "This will allow us to reach out to people like you with relevant ads on social and ad networks."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "InstaShot",
+      "bundleIdentifier": "com.camerasideas.InstaShot",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/NFX4SrM.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/elzebarychannel/494",
+          "size": 132131061,
+          "version": "1.86.0",
+          "buildVersion": "",
+          "date": "2025-05-02T23:51:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "InShot requires access to the media library for adding music tracks to videos",
+          "NSCalendarsUsageDescription": "InShot requires to set calendar events ",
+          "NSCameraUsageDescription": "InShot requires the usage of Camera to capture photos and videos",
+          "NSLocationWhenInUseUsageDescription": "InShot uses location information to geotag photos and videos",
+          "NSMicrophoneUsageDescription": "InShot requries the usage of Microphone to capture video audio",
+          "NSPhotoLibraryAddUsageDescription": "InShot requires access to the photo library for saving photos and videos",
+          "NSPhotoLibraryUsageDescription": "InShot requires access to the photo library for editing and saving photos and videos",
+          "NSUserTrackingUsageDescription": "Your data will only be used to deliver personalized ads to you."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Alight Motion - RCS",
+      "bundleIdentifier": "com.alightcreative.motion",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/eF1tA4W.png",
+      "tintColor": "#7f7f7f",
+      "category": "photo-video",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/elzebarychannel/504",
+          "size": 125598433,
+          "version": "6.2.15",
+          "buildVersion": "",
+          "date": "2025-05-02T23:49:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://genghis.app",
+          "NSAppleMusicUsageDescription": "Alight Motion needs media access to import media",
+          "NSCameraUsageDescription": "Alight Motion needs camera access to import media",
+          "NSPhotoLibraryAddUsageDescription": "Alight Motion needs camera roll access to save photos and videos",
+          "NSPhotoLibraryUsageDescription": "Alight Motion needs photo access to import media",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Shadow Fight 2 ",
+      "bundleIdentifier": "com.nekki.shadowfight",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/X8gwSSJ.png",
+      "tintColor": "#7f7f7f",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/elzebarychannel/515",
+          "size": 135916421,
+          "version": "2.41.5",
+          "buildVersion": "",
+          "date": "2025-05-02T23:48:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "Not used",
+          "NSPhotoLibraryUsageDescription": "Not used"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Video Lite",
+      "bundleIdentifier": "com.videobrowser.ios",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/9h9C0zv.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/elzebarychannel/499",
+          "size": 28280094,
+          "version": "612100",
+          "buildVersion": "",
+          "date": "2025-05-02T23:47:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSAdvertisingAttributionReportEndpoint": "https://postbacks-app.com",
+          "NSBluetoothAlwaysUsageDescription": "Chromecast",
+          "NSCameraUsageDescription": "Allow some websites to access the camera upon request",
+          "NSFaceIDUsageDescription": "Privacy lock",
+          "NSLocalNetworkUsageDescription": "Chromecast",
+          "NSMicrophoneUsageDescription": "Allow some websites to use voice typing",
+          "NSPhotoLibraryAddUsageDescription": ""
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Remini",
+      "bundleIdentifier": "com.bigwinepot.nwdn.international",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/iOkvd9D.png",
+      "tintColor": "#7f7f7f",
+      "category": "photo-video",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/elzebarychannel/500",
+          "size": 151246602,
+          "version": "2.10.118",
+          "buildVersion": "",
+          "date": "2025-05-02T23:46:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://genghis.app",
+          "NSCameraUsageDescription": "Remini needs access to your camera to enhance the photos and videos that you take.",
+          "NSMicrophoneUsageDescription": "Remini needs access to your microphone to record videos.",
+          "NSPhotoLibraryAddUsageDescription": "Remini needs access to your gallery to enhance and save your photos.",
+          "NSPhotoLibraryUsageDescription": "Remini needs access to your gallery to enhance and save your photos.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "365Scores",
+      "bundleIdentifier": "com.365scores.365scroesapp",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/k2nJOsB.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/elzebarychannel/521",
+          "size": 56969134,
+          "version": "6.1.3",
+          "buildVersion": "",
+          "date": "2025-05-02T23:45:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSBluetoothPeripheralUsageDescription": "Advertisement would like to use bluetooth.",
+          "NSCalendarsUsageDescription": "We’d like to access your calendar to add relevant events",
+          "NSCameraUsageDescription": "To present a stadium in augmented reality",
+          "NSLocationWhenInUseUsageDescription": "Your location will be used to deliver you stories and updates about teams and players in your area",
+          "NSMicrophoneUsageDescription": "365Scores uses the microphone to record your speech and convert it to text.",
+          "NSPhotoLibraryAddUsageDescription": "365Scores uses photos to save your images in the library",
+          "NSPhotoLibraryUsageDescription": "365Scores uses photos",
+          "NSUserTrackingUsageDescription": "Your data will be used to show ads that are more relevant to you"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "WhatsApp Business",
+      "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/3osznbe.png",
+      "tintColor": "#7f7f7f",
+      "category": "social",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/elzebarychannel/501",
+          "size": 115574046,
+          "version": "25.13.10",
+          "buildVersion": "",
+          "date": "2025-05-02T23:44:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "‎This lets you create events on your calendar.",
+          "NSCameraUsageDescription": "‎This lets you make video calls, take photos, and record videos.",
+          "NSContactsUsageDescription": "‎Upload your contacts to WhatsApp's servers to help you quickly get in touch with your customers and help us provide a better experience.",
+          "NSFaceIDUsageDescription": "‎Use Face ID to authenticate on WhatsApp Business.",
+          "NSLocalNetworkUsageDescription": "‎This will let you use WhatsApp to place and receive calls through devices that are on the same Wi-Fi or local access networks.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
+          "NSLocationAlwaysUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+          "NSLocationUsageDescription": "‎This lets you send your current location or nearby places.",
+          "NSLocationWhenInUseUsageDescription": "‎This lets you send your current location or nearby places.",
+          "NSMicrophoneUsageDescription": "‎This lets you make calls, send voice messages, and record videos with sound.",
+          "NSPhotoLibraryAddUsageDescription": "‎This lets you save photos and videos to your library.",
+          "NSPhotoLibraryUsageDescription": "‎This lets you send photos and videos from your library and save the ones you capture.",
+          "NSRemindersUsageDescription": "‎This lets you set reminders to call your customers back.",
+          "NSSiriUsageDescription": "‎This lets you use Siri to quickly send and read messages and make calls.",
+          "NSSpeechRecognitionUsageDescription": "WhatsApp does on-device recognition for Voice Messages. In this mode, no voice data is sent to Apple despite this alert, which is unexpected. Select \"Don't Allow\" and report to WhatsApp."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Truecaller",
+      "bundleIdentifier": "com.truesoftware.TrueCallerOther",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/2CP0asz.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/elzebarychannel/554",
+          "size": 120712069,
+          "version": "14.7.5",
+          "buildVersion": "",
+          "date": "2025-05-02T23:41:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "This lets you take a photo and set it as your profile picture.",
+          "NSContactsUsageDescription": "We need this permission to allow you to save contacts or check which of your contacts use Truecaller. We never upload your phonebook.",
+          "NSMicrophoneUsageDescription": "Truecaller needs access to your microphone to answer calls",
+          "NSPhotoLibraryUsageDescription": "Photo Library access is required for selecting photos",
+          "NSUserTrackingUsageDescription": "This allows us to give you a more personalized experience."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "VK",
+      "bundleIdentifier": "com.vk.vkclient",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/z4oIkDL.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/elzebarychannel/514",
+          "size": 165339463,
+          "version": "8.121",
+          "buildVersion": "",
+          "date": "2025-05-02T23:39:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "Это нужно, чтобы приложение могло найти умные устройства в вашем доме",
+          "NSCalendarsFullAccessUsageDescription": "Allow access to read and edit events",
+          "NSCalendarsUsageDescription": "Allow access to add events",
+          "NSCameraUsageDescription": "Allow access to make calls, take photos, create virtual avatars, and record videos, clips and stories, as well as to use the TrueDepth camera to apply effects and masks",
+          "NSContactsUsageDescription": "Allow access to search friends in your contacts",
+          "NSFaceIDUsageDescription": "Used for authorization in VK Pay and VK Mini Apps",
+          "NSHealthShareUsageDescription": "Allow access to use data for VK Run",
+          "NSHealthUpdateUsageDescription": "Allow access to update number of your steps",
+          "NSLocalNetworkUsageDescription": "",
+          "NSLocationWhenInUseUsageDescription": "Location is used when attached to a message or post and to improve recommendations for your news feed",
+          "NSMicrophoneUsageDescription": "Allow access to record videos and voice messages",
+          "NSPhotoLibraryAddUsageDescription": "Allow access to save photos and videos to the library",
+          "NSPhotoLibraryUsageDescription": "Allow access to select photos and videos from the library",
+          "NSSiriUsageDescription": "Allow to use siri for message announcements",
+          "NSSpeechRecognitionUsageDescription": "Allow access to recognise voice messages",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads to you"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Instagram",
+      "bundleIdentifier": "com.burbn.instagram",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/zVJKQV5.png",
+      "tintColor": "#7f7f7f",
+      "category": "social",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/elzebarychannel/338",
+          "size": 196261969,
+          "version": "367.0.0",
+          "buildVersion": "",
+          "date": "2025-05-02T23:38:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://facebook.com",
+          "NSBluetoothAlwaysUsageDescription": "This allows your phone to find and connect to the glasses using a Bluetooth connection.",
+          "NSCalendarsUsageDescription": "This will let Instagram sync events to your calendar.",
+          "NSCameraUsageDescription": "Instagram uses your device's camera to do things like help you take photos, record videos and use effects.",
+          "NSContactsUsageDescription": "Instagram will use your contacts to suggest people and things you care about, and offer a better service. Your contacts will be periodically synced and securely stored on Instagram’s servers.",
+          "NSFaceIDUsageDescription": "Enable Face ID for quick and secure authentication on Instagram.",
+          "NSFocusStatusUsageDescription": "This allows Instagram to check to see if you’ve been missing notifications from friends. You can always change this later in settings.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSLocationWhenInUseUsageDescription": "Instagram uses this to make some features work, personalize content and help people find places. You can change your preferences at any time in your device settings.",
+          "NSMicrophoneUsageDescription": "Instagram uses your device's microphone to do things like help you record videos and preview audio effects.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save photos and videos to your Camera Roll.",
+          "NSPhotoLibraryUsageDescription": "Instagram uses access to your camera roll to do things like help you share photos and videos to Instagram, apply effects and suggest photos and videos to share.",
+          "NSUserTrackingUsageDescription": "This allows Instagram to provide you with a better ads experience."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "GTA : SA HD",
+      "bundleIdentifier": "com.rockstargames.gta3sahd",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/zIeGSOH.png",
+      "tintColor": "#7f7f7f",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/elzebarychannel/36",
+          "size": 2041975930,
+          "version": "2.02.07",
+          "buildVersion": "",
+          "date": "2025-05-02T23:36:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "NSAppleMusicUsageDescription",
+          "NSMainNibFile~ipad": "",
+          "NSMicrophoneUsageDescription": "Apple Screen Recording",
+          "NSUserTrackingUsageDescription": "GTA: SA"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "TikTok",
+      "bundleIdentifier": "com.zhiliaoapp.musically",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/gahf8up.png",
+      "tintColor": "#7f7f7f",
+      "category": "social",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/libraryipafiles/642",
+          "size": 306792366,
+          "version": "39.8.0",
+          "buildVersion": "",
+          "date": "2025-05-02T23:31:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://byteintl-ugpaidads.com",
+          "NSAppleMusicUsageDescription": "To select sound from your library, allow us to access your Apple Music.",
+          "NSBluetoothAlwaysUsageDescription": "This will allow \"TikTok\" to find and connect to Bluetooth accessories. This app may also use Bluetooth to connect with nearby devices.",
+          "NSBluetoothPeripheralUsageDescription": "This will allow \"TikTok\" to find and connect to Bluetooth accessories. This app may also use Bluetooth to connect with nearby devices.",
+          "NSCalendarsUsageDescription": "Add events to your device calendar to get reminders when events start.",
+          "NSCameraUsageDescription": "You'll be able to record video.",
+          "NSContactsUsageDescription": "Sync your contacts to easily find people you know on TikTok. Your contacts will only be used to help you connect with friends.",
+          "NSFaceIDUsageDescription": "We'll use this to unlock features that require added security.",
+          "NSLocalNetworkUsageDescription": "The TikTok app will be able to discover and connect with devices that have the TikTok app installed for camera and screen sharing.",
+          "NSLocationWhenInUseUsageDescription": "If location services are enabled, TikTok will collect, store and use your device's approximate location to improve your experience.",
+          "NSMicrophoneUsageDescription": "To record audio, allow us to access your Microphone.",
+          "NSPhotoLibraryAddUsageDescription": "To upload from or download to your device, allow access to your photos in your phone settings.",
+          "NSPhotoLibraryUsageDescription": "To upload from or download to your device, allow access to your photos in your phone settings.",
+          "NSUserTrackingUsageDescription": "This allows TikTok to provide you with a better ads experience."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Very little nightmares ",
+      "bundleIdentifier": "eu.bandainamcoent.verylittlenightmares",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/jjGSXhJ.png",
+      "tintColor": "#7f7f7f",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/elzebarychannel/49",
+          "size": 759840112,
+          "version": "1.2.0",
+          "buildVersion": "",
+          "date": "2025-05-02T23:28:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Todays Video",
+      "bundleIdentifier": "aiapps.Todays-Video",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/BqjIo9y.png",
+      "tintColor": "#7f7f7f",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/elzebarychannel/553",
+          "size": 9206497,
+          "version": "3",
+          "buildVersion": "",
+          "date": "2025-05-02T23:15:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Allow to play videos in AirPlay",
+          "NSPhotoLibraryUsageDescription": "Allow to import videos from Gallery",
+          "NSUserTrackingUsageDescription": "We use this data to provide you with a better advertising experience."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "تربع",
+      "bundleIdentifier": "com.azmenezi.tarbaa",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/DbvOFk3.png",
+      "tintColor": "#7f7f7f",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/elzebarychannel/552",
+          "size": 12457082,
+          "version": "1.5.0",
+          "buildVersion": "",
+          "date": "2025-05-02T23:13:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Allow trabaa to access your camera",
+          "NSFaceIDUsageDescription": "Allow trabaa to access your Face ID biometric data.",
+          "NSMicrophoneUsageDescription": "Allow trabaa to access your microphone",
+          "NSPhotoLibraryUsageDescription": "The app accesses your photos to let you share them with your friends."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "gta3vc",
+      "bundleIdentifier": "com.rockstargames.gta3vc",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/iV5NWvN.png",
+      "tintColor": "#7f7f7f",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/elzebarychannel/33",
+          "size": 924927918,
+          "version": "1.5.6",
+          "buildVersion": "",
+          "date": "2025-05-02T23:07:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "Your media library can be used to create a custom radio station",
+          "NSMainNibFile": "MainWindow",
+          "NSMainNibFile~ipad": "MainWindow"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "FC Mobile",
+      "bundleIdentifier": "com.ea.ios.fifamobile",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/j2PdyEx.png",
+      "tintColor": "#7f7f7f",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://t.me/elzebarychannel/562",
+          "size": 130023424,
+          "version": "24.0.04",
+          "buildVersion": "",
+          "date": "2025-05-02T22:56:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://singular-bi.net",
+          "NSCalendarsUsageDescription": "This app would like access to your calendar to display interactive ads.",
+          "NSCameraUsageDescription": "This app would like to save images to your photo library.",
+          "NSMicrophoneUsageDescription": "This app would like access to your microphone for the Customer Service chat within the Settings menu.",
+          "NSMotionUsageDescription": "This app would like access to your motion controls to display interactive ads.",
+          "NSPhotoLibraryAddUsageDescription": "This app would like to save images to your photo library.",
+          "NSPhotoLibraryUsageDescription": "This app would like access to your camera to display interactive ads.",
+          "NSUserTrackingUsageDescription": "Tracking enables third-party logins, allows us to offer you relevant & rewarded ads more often, and helps us to improve the app. If disabled, third-party logins will not work and the ads you see will be less relevant to you.  Whichever option you choose, we’re so excited to have you play the game!"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Electronics Engineer Helper",
+      "bundleIdentifier": "com.rd.eehelper",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/00kMGIZ.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "",
+      "developerName": "cypwn",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/tGOjyx0.png",
+      "tintColor": "#7f7f7f",
+      "category": "utilities",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "9.0.36",
+          "date": "2025-05-01T23:51:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://ipa.cypwn.xyz/",
+          "size": 84190167,
+          "buildVersion": "",
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you.",
+          "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
+          "NSBluetoothPeripheralUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+          "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
+          "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
+          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
+          "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
+          "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
+          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "PicsArt - RCS",
+      "bundleIdentifier": "com.picsart.studio",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/lOtPeqC.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "27.1.2",
+          "date": "2025-05-01T19:30:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://t.me/ipawind/8719",
+          "size": 111725772,
+          "buildVersion": "",
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSAppleMusicUsageDescription": "NSAppleMusicUsageDescription",
+          "NSBluetoothAlwaysUsageDescription": "You can select to no",
+          "NSBluetoothPeripheralUsageDescription": "We would like access to bluetooth for peripheral accessories.",
+          "NSCalendarsUsageDescription": "We would like access to the calendar so we can serve you more relevant content.",
+          "NSCameraUsageDescription": "NSCameraUsageDescription",
+          "NSContactsUsageDescription": "Your contacts will be uploaded to Picsart’s server to help you and others find friends!",
+          "NSMicrophoneUsageDescription": "NSMicrophoneUsageDescription",
+          "NSPhotoLibraryAddUsageDescription": "NSPhotoLibraryUsageDescription",
+          "NSPhotoLibraryUsageDescription": "NSPhotoLibraryUsageDescription",
+          "NSSpeechRecognitionUsageDescription": "NSSpeechRecognitionUsageDescription",
+          "NSUserTrackingUsageDescription": "NSUserTrackingUsageDescription"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "CapCut - RCS",
+      "bundleIdentifier": "com.lemon.lvoverseas2",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/OC2vWAJ.png",
+      "tintColor": "#7f7f7f",
+      "category": "photo-video",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "13.9.2",
+          "date": "2025-05-01T19:26:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://t.me/ipawind/8719",
+          "size": 144986603,
+          "buildVersion": "",
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "CapCut requires permission to import and add music from Apple's media library to video editing project files.",
+          "NSCameraUsageDescription": "CapCut requires permission to use the camera to capture photos and videos for video editing, saving, publishing.",
+          "NSMicrophoneUsageDescription": "CapCut requires permission to access your microphone to record sounds for video editing, saving, publishing.",
+          "NSPhotoLibraryUsageDescription": "CapCut requires access to the album to import photos and videos to video editing project files and save videos to the device.",
+          "NSUserTrackingUsageDescription": "CapCut requires access to UserTracking to identify the device for managing data statistics, analyzing service effects, ensuring service security and improving user experience.Please rest assured that opening the permission will not obtain your private information on other sites."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "YouTube - RCS",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/cu5OXxE.png",
+      "tintColor": "#7f7f7f",
+      "category": "social",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "20.12.4",
+          "date": "2025-05-01T19:20:00+03:00",
+          "localizedDescription": null,
+          "downloadURL": "https://t.me/ipawind/8720",
+          "size": 120544296,
+          "buildVersion": "",
+          "minOSVersion": null,
+          "maxOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "This lets you add your own audio files to your videos.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube needs bluetooth access to scan for nearby Cast devices.",
+          "NSCameraUsageDescription": "This lets you create videos using the app.",
+          "NSContactsUsageDescription": "Your contacts will be sent to YouTube servers to help you find friends to share videos with.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube to discover and connect to devices such as your TV.",
+          "NSLocationWhenInUseUsageDescription": "Makes it easier for you to attach location information to your videos and live streams and allows for features such as improved recommendations and ads.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos and search using your voice.",
+          "NSPhotoLibraryUsageDescription": "This lets you upload media you've already created.",
+          "NSUserTrackingUsageDescription": "To personalize ads and provide ad measurement, YouTube will link activity from this app with activity from non-Google apps and websites."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
